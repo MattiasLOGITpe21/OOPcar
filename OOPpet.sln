@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPpet", "OOPpet\OOPpet.csproj", "{EF0BD13D-9A26-4B25-972E-FD448203F426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPcar", "OOPcar\OOPcar.csproj", "{6CB96E18-44D4-4A5E-A90C-F84357E46659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF0BD13D-9A26-4B25-972E-FD448203F426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0BD13D-9A26-4B25-972E-FD448203F426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0BD13D-9A26-4B25-972E-FD448203F426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0BD13D-9A26-4B25-972E-FD448203F426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CB96E18-44D4-4A5E-A90C-F84357E46659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB96E18-44D4-4A5E-A90C-F84357E46659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB96E18-44D4-4A5E-A90C-F84357E46659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB96E18-44D4-4A5E-A90C-F84357E46659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B08FE03-FA4F-44CE-874C-9518251815C9}
+	EndGlobalSection
+EndGlobal
